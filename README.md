@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-install.github.io/.github/traktor-pro" target="_blank">  
+<a href="https://get-install-osx.github.io/.github/traktor-pro" target="_blank">  
   <img src="https://img.shields.io/badge/GET%20FOR%20MAC-%F0%9F%92%BE-orange?style=for-the-badge&logo=apple&logoColor=white" alt="Get Traktor Pro for Mac">  
 </a>  
 </div>  
